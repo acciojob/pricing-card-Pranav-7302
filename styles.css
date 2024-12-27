@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.card{
+    margin: 100px 500px;
+    height: 400px;
+    width: 250px;
+    background-color: aliceblue;
+    text-align: center;
+    box-shadow: 5px 5px 10px 0 black;
+}
+img{
+    margin: 10px;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: brown;
+    color: white;
+    border-radius: 30px;
+    font-size: large;
+}
+
